@@ -40,7 +40,7 @@ O(F(N) · log F(N)), where F(N) is the N-th number.
 O(1)
 
 **Limitations:**  
-Extremely slow for large values of N (e.g., 10⁵ or 10⁶) since many invalid numbers are checked and discarded. I Could only use this method for computing F(1500), 100,000 and 10,000,000 were take exremly long time, hence I started to think about a more optimized solution wherein not every number is checked and discarded.
+Extremely slow for large values of N (e.g., 10⁵ or 10⁶) since many invalid numbers are checked and discarded. I Could only use this method for computing F(1500). F(100,000) and F(10,000,000) were taking extremely long computation time, hence I started to think about a more optimized solution wherein not every number is checked and discarded.
 
 ---
 
